@@ -115,7 +115,7 @@ Spent cho;
 char city[20];
 int gfo, adultC = 0, adults=0 , children=0 , childC=0 ,c;
 cout << "              ________________________________"<<endl;
-cout << "               Welcome to our tourism program."<<endl;
+cout << "              Tourism Planner - C++ Project."<<endl;
 cout << "              ________________________________"<<endl;
 do {
     displayMenu(choice);
@@ -434,4 +434,5 @@ void calculate(Spent cho){
   	cout<<"\nEnter your choice of transport:"<<endl;
 
 	
+
 }
