@@ -1,7 +1,7 @@
 // Tourism Management Program
 // Developed by: Sarah Alotaibi
 // Course: CS221 - Fundamentals of Programming
-// Imam Abdulrahman Bin Faisal University
+
 
 
 #include <iostream>
@@ -436,3 +436,4 @@ void calculate(Spent cho){
 	
 
 }
+
